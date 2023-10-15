@@ -119,7 +119,7 @@ Algoritmo expresiones_matematicas
 	//expresion_7
 	//expresion_8
 	//expresion_9
-	expresion_10
+	//expresion_10
 FinAlgoritmo
 
 
